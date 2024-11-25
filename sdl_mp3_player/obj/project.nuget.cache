@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ktba4Xl2Blw=",
+  "dgSpecHash": "lodFy9xiNJE=",
   "success": true,
   "projectFilePath": "C:\\Users\\alexc\\OneDrive\\c_sharp_projects\\sdl_mp3_player\\sdl_mp3_player\\sdl_mp3_player.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alexc\\.nuget\\packages\\sayers.sdl2.core\\1.0.11\\sayers.sdl2.core.1.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
